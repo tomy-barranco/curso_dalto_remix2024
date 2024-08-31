@@ -20,6 +20,9 @@ Este repositorio contiene los archivos y proyectos relacionados con el curso de 
 - **Metodos de listas**
 - **Metodos de diccionarios**
 - **Entrada de datos**
+- **Ejercicios practicos 1**
+- **Variables 2.0**
+- **Diccionarios 2.0**
 
 ## Instrucciones de Instalación
 
