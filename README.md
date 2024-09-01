@@ -23,6 +23,7 @@ Este repositorio contiene los archivos y proyectos relacionados con el curso de 
 - **Ejercicios practicos 1**
 - **Variables 2.0**
 - **Diccionarios 2.0**
+- **Bucle For**
 
 ## Instrucciones de Instalación
 
