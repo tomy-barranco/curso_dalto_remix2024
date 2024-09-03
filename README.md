@@ -24,6 +24,7 @@ Este repositorio contiene los archivos y proyectos relacionados con el curso de 
 - **Variables 2.0**
 - **Diccionarios 2.0**
 - **Bucle For**
+- **Bucle While**
 
 ## Instrucciones de Instalación
 
